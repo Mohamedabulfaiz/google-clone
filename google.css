@@ -1,3 +1,23 @@
 img{
     width:40% ;
-}5
+    margin: auto;
+    margin-top: 40px;
+}
+
+body{
+    text-align: center;
+}
+input{
+    width: 35%;
+    color: rgb(155, 152, 152);
+}
+button{
+    margin-top: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    border-radius: 10px;
+    
+
+    
+}
